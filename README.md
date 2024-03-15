@@ -1,3 +1,3 @@
 # Core
 
-## Backend services for crypto_payment.io
+## Backend services for crypto_payment
