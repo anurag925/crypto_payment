@@ -1,0 +1,1757 @@
+[
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/accounts/:id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*accountHandler).GetAccount-fm"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*cryptoWalletHandler).GetCryptoWalletsForRetailer-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/orders",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*orderHandler).PostOrder-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*transactionHandler).GetAllTransactions-fm"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*retailerHandler).PostRetailers-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/payments/list",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*paymentsHandler).GetPaymentsForCustomer-fm"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/retailers/:retailers_id/configurations",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*retailerHandler).PostRetailersConfigurations-fm"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/transactions/:transaction_id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*transactionHandler).GetRetailerTransactionDetails-fm"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/transactions/:generated_id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*transactionHandler).GetTransactionByGeneratedID-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/health_check",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers.(*healthCheckController).Ping-fm"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/accounts/login",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*accountHandler).Login-fm"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*documentHandler).CreateDocument-fm"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/otp/send",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*otpHandler).SendOtp-fm"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/orders/settlement_amount",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*orderHandler).GetSettlementAmount-fm"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*customerHandler).GetCustomersInTimePeriod-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/retailers/:id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*retailerHandler).GetRetailerDetails-fm"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*walletHandler).GetWalletForRetailer-fm"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/transactions/payout",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*transactionHandler).CreateRetailerPayout-fm"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/payments/:payment_id/status",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*paymentsHandler).GetStatus-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*retailerHandler).GetAllRetailers-fm"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*apiConfigHandler).CreateApiConfigForRetailer-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*transactionHandler).GetAllTransactionsForRetailer-fm"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/orders/:order_id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*orderHandler).GetOrderDetailForRetailer-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/accounts/dashboard",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*accountHandler).Dashboard-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*apiConfigHandler).GetApiConfigsForRetailer-fm"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*orderHandler).GetOrdersForRetailer-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/documents/upload",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*documentHandler).UploadDocument-fm"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*cryptoWalletHandler).UpdateCryptoWalletForRetailer-fm"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/retailers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/customers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/documents",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*documentHandler).CreateDocument-fm"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/admin/api/v1/customers/:id",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/admin/api/v1.(*customerHandler).GetCustomerDetailById-fm"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/accounts/register",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*accountHandler).PostAccount-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/wallets",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/hello",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers.(*healthCheckController).Hello-fm"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/admin/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/admin/api/v1/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/api-configs",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/payments",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*paymentsHandler).PostPayment-fm"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/v1/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/api/v1/documents/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/transactions",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/admin/api/v1/accounts/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/admin/api/v1/accounts",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/otp/verify",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*otpHandler).VerifyOtp-fm"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/v1/retailers/:id/wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/orders/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/v1/retailers/:id",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/v1/retailers/:id/orders",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "REPORT",
+    "path": "/admin/api/v1/retailers",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/admin/api/v1/customers/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/v1/retailers/:id/api-configs/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/crypto-wallets",
+    "name": "github.com/anurag925/crypto_payment/pkg/handlers/api/v1.(*cryptoWalletHandler).CreateCryptoWalletForRetailer-fm"
+  },
+  {
+    "method": "POST",
+    "path": "/api/v1/retailers/:id/crypto-wallets/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/v1/retailers/:id/documents",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/admin/api/v1/transactions/*",
+    "name": "github.com/labstack/echo/v4.glob..func1"
+  }
+]

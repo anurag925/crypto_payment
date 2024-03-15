@@ -1,0 +1,35 @@
+<html>
+
+<head>
+
+    <script src=”https://cdn.deviceinf.com/js/v4/agent.js”></script>
+</head>
+
+<body>
+    <script>
+        seon.config({
+            host: "deviceinf.com",
+            session_id: "UNIQUE SESSION ID",
+            audio_fingerprint: true,
+            canvas_fingerprint: true,
+            webgl_fingerprint: true,
+            onSuccess: function (message) {
+
+            },
+            onError: function (message) {
+
+            }
+        });
+
+        seon.getBase64Session(function (data) {
+            if (data) {
+
+                console.log("Returned Data use for fingerprint in api", data);
+            } else {
+            }
+        });
+    </script>
+
+</body>
+
+</html>
